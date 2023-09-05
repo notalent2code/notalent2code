@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=notalent2code&hide=html,css&theme=tokyonight&layout=compact" alt="top-languages" style="height: 160px;" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=notalent2code&hide=html,css&theme=tokyonight" alt="top-languages" style="height: 160px;" />
   <span>&nbsp;</span>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=notalent2code&include_all_commits=true&show_icons=true&theme=tokyonight" alt="github-stats" style="height: 160px;" />
 </div>
