@@ -12,9 +12,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notalent2code&langs_count=8&hide=html,css,shaderlab&theme=tokyonight&layout=compact" alt="top-languages" style="height: 200px;" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=notalent2code&hide=html,css&theme=tokyonight&layout=compact" alt="top-languages" style="height: 160px;" />
   <span>&nbsp;</span>
-  <img src="https://github-readme-stats.vercel.app/api?username=notalent2code&include_all_commits=true&custom_title=Github%20Stats&show_icons=true&hide_rank=true&theme=tokyonight" alt="github-stats" style="height: 200px;" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=notalent2code&include_all_commits=true&show_icons=true&theme=tokyonight" alt="github-stats" style="height: 160px;" />
 </div>
 
 <!--h1 without bottom border-->
