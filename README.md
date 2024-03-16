@@ -1,5 +1,5 @@
 <h1 align="center">Hello there👋, My name is <a href="https://notalent2code.github.io/" target="blank">Rihlan Lumenda</a></h1>
-<h3 align="center">An aspiring Software Engineer who are currently studying Computer Science at Universitas Padjadjaran</h3>
+<h3 align="center">Software Engineer</h3>
 
 <br>
 
